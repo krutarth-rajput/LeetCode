@@ -1,7 +1,7 @@
 # Leetcode
-# 30 Days of LeetCode Challenges
+# 100 Days of LeetCode Challenges
 
-This repository contains my solutions to the 30 Days of LeetCode challenge. Each day, I tackle a new coding problem from LeetCode, aiming to improve my problem-solving skills and understanding of algorithms and data structures.
+This repository contains my solutions to the 10 Days of LeetCode challenge. Each day, I tackle a new coding problem from LeetCode, aiming to improve my problem-solving skills and understanding of algorithms and data structures.
 
 ## Structure
 
